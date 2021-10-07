@@ -1,2 +1,2 @@
-# Iris_Dataset_Analysis_and_Classification
+# Iris Dataset Analysis and Classification
 Classify the flowers by logistic regression, knn - (k nearest neighbors), and decision tree algorithms.
